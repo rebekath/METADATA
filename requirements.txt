@@ -1,0 +1,21 @@
+LIBRERIAS:
+
+import PyPDF2
+Instalar:
+pip install PyPDF2
+
+import openpyxl
+Instalar:
+pip install openpyxl
+
+from docx import Document
+-importa la clase Document desde el módulo docx, que es una biblioteca 
+de Python utilizada para trabajar con archivos de Microsoft Word en formato .docx
+Instalar:
+pip install python-docx
+
+
+
+
+
+
